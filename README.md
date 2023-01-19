@@ -1,6 +1,6 @@
-#### 🖱  Olá, Eu sou o Bruno Idalgo, sou um desenvolvedor em busca de uma oportunidade.
+#### 🖱 - Olá, Eu sou o Bruno Idalgo, sou um desenvolvedor em busca de uma oportunidade.
 #### 🖥 -  Atualmente faço faculdade de Analise e desenvolvimento de sistemas.
-#### 💼 Meu sonho é ser desenvolvedor e poder contribuir fazendo oque eu gosto.
+#### 💼 - Meu sonho é ser desenvolvedor e poder evoluir e crescer fazendo oque eu gosto.
 
 <br>
 
