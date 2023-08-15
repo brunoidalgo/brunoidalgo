@@ -27,7 +27,7 @@
  
   <a href="https://www.instagram.com/brunooidalgo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:brunocorreaidalgo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/bruno-corr%C3%AAa-8a73121b3/" target="_blank"><img src="www.linkedin.com/in/bruno-empke-8a73121b3" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/bruno-corr%C3%AAa-8a73121b3/](https://www.linkedin.com/in/bruno-empke-8a73121b3/)" target="_blank"><img src="www.linkedin.com/in/bruno-empke-8a73121b3" target="_blank"></a>
    <a href="https://www.facebook.com/bruno.coreia.77" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
  
 </div>
