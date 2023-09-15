@@ -23,7 +23,7 @@
 
 ✒️ Eu gosto de no meu tempo livre de assistir filmes de ação e suspense com minha esposa, jogar no meu videogame e ficar na companhia da minha família e amigos;
 
-📚 Estudando: NodeJs, C#, .NET, SQL Server.
+📚 Estudando: NodeJs, C#, .NET, SQL Server, Cypress, JavaScript, NodeJs.
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 <!--
@@ -46,7 +46,7 @@ Substitua o usuário maxsonferovante pelo seu usuário no GitHub.
 
 
 
-**Tecnologias e Ferramentas**
+### Tecnologias e Ferramentas...⚡
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
