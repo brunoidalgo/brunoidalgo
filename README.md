@@ -10,14 +10,14 @@
 
 ### Sobre mim
 
-💻 Eu sou um Analista de Qualidade
+💻 Sou um Analista de Qualidade
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End, faço faculdade de Analise e Desenvolvimento de Sistemas, também estudo a area de Testes de Software.
+🎓 Estudo Desenvolvimento de Software com Foco em Back-End, faço faculdade de Analise e Desenvolvimento de Sistemas, também estudo a area de Testes de Software.
 
-<!--👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual] -->
+<!--👩‍💻 Atualmente eu trabalho como [Analista QA] @ [SMARAPD] -->
 
 🔎 Também sou curioso por novas tecnologias, curiosidades e novidades do mundo Tech e sempre gosto de compartilhar e adquirir novos conhecimentos.
 
