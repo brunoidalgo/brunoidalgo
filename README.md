@@ -23,7 +23,7 @@
 
 ✒️ Eu gosto de no meu tempo livre de assistir filmes de ação e suspense com minha esposa, jogar no meu videogame e ficar na companhia da minha família e amigos;
 
-📚 Estudando: C#, .NET, SQL Server, Cypress, JavaScript, NodeJs.
+📚 Estudando: C#, .NET, SQL Server, Cypress, JavaScript, NodeJs, Html, Css, Robot Framwork, Python
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 <!--
