@@ -1,4 +1,4 @@
-# Oi, me chamo Bruno Empke 👋
+# Hello, my name is Bruno Empke, nice to meet you 👋
 
 ### Entre em contato comigo! 📭
 <div>
@@ -8,16 +8,16 @@
 </div>
 
 
-### Sobre mim
+### About me
 
-💻 Sou um Analista de Qualidade
+💻 I am a Software QA Analyst
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Estudo Desenvolvimento de Software com Foco em Back-End, faço faculdade de Analise e Desenvolvimento de Sistemas, também estudo a area de Testes de Software.
+🎓 I study development and test automation tecnologies like: Postman, Cypress, JavaScript, Html, Css, Python, Robot Framework, Cucumber
 
-<!--👩‍💻 Atualmente eu trabalho como [Analista QA] @ [SMARAPD] -->
+<!--👩‍💻 Actualy i work with [Software QA Analyst] @ [SMARAPD] -->
 
 🔎 Também sou curioso por novas tecnologias, curiosidades e novidades do mundo Tech e sempre gosto de compartilhar e adquirir novos conhecimentos.
 
