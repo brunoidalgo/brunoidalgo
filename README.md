@@ -10,20 +10,26 @@
 
 ### About me
 
-💻 I am a Software QA Analyst
+🚀 Especialista em Testes de Software | QA Automation Engineer
 
-<!-- Isso é um comentário, não irá aparecer no seu perfil
-(Abaixo você seleciona o curso que você está fazendo no momento) -->
+💼 Combinando paixão pela qualidade e desenvolvimento de software, estou comprometido em elevar os padrões de excelência em projetos.
 
-🎓 I study development and test automation tecnologies like: Postman, Cypress, JavaScript, Html, Css, Python, Robot Framework, Cucumber
+🔍 Sou um Analista de Testes com uma trilha comprovada de sucesso em:
 
-<!--👩‍💻 Actualy i work with [Software QA Analyst] @ [SMARAPD] -->
+● 🌐 Testes Funcionais Web, Mobile e Webservices.
+● 🤖 Automação de teste com Cypress, Robot Framework e outras ferramentas como Selenium Webdriver.
+● 🛠 Desenvolvimento de testes com Python, JavaScript, Java, Ruby, Cucumber, e práticas como TDD e BDD.
+● 📈 Teste de Performance com JMeter.
+● 📝 Elaboração de relatórios detalhados e registro eficiente de falhas encontradas.
+● 🔄 Integração Contínua/Entrega Contínua (CI/CD) utilizando GitHub Actions e Azure.
+● 🔄 Controle de versão eficaz com GIT.
+● 📊 Teste de API com Postman, Insomnia e Swagger.
+● 📆 Atuação em projetos ágeis utilizando metodologias como Scrum.
+● 🎓 Certificado em Scrum, trago consigo não só habilidades técnicas, mas também a mentalidade ágil necessária para impulsionar equipes e entregar resultados excepcionais.
 
-🔎 Também sou curioso por novas tecnologias, curiosidades e novidades do mundo Tech e sempre gosto de compartilhar e adquirir novos conhecimentos.
+💬 Vamos conectar e explorar como posso contribuir para o sucesso do seu próximo projeto!
 
-✒️ Eu gosto de no meu tempo livre de assistir filmes de ação e suspense com minha esposa, jogar no meu videogame e ficar na companhia da minha família e amigos;
-
-📚 Estudando: C#, .NET, SQL Server, Cypress, JavaScript, NodeJs, Html, Css, Robot Framwork, Python
+📧 Entre em contato: idalgob99@gmail.com
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 <!--
