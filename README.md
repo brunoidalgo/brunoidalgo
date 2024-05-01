@@ -10,26 +10,17 @@
 
 ### About me
 
-🚀 Especialista em Testes de Software | QA Automation Engineer
+Hi, my name is Bruno, nice to meet you. 
 
-💼 Combinando paixão pela qualidade e desenvolvimento de software, estou comprometido em elevar os padrões de excelência em projetos.
+Let a introduce myself.
 
-🔍 Sou um Analista de Testes com uma trilha comprovada de sucesso em:
+I'm a Software Quality Engineer and I am passionate about delivering software solutions, I help ensure quality software that meets expected requirements. I am passionate about automating software quality processes and am a representative of quality and automation in any team I work for.
 
-● 🌐 Testes Funcionais Web, Mobile e Webservices.
-● 🤖 Automação de teste com Cypress, Robot Framework e outras ferramentas como Selenium Webdriver.
-● 🛠 Desenvolvimento de testes com Python, JavaScript, Java, Ruby, Cucumber, e práticas como TDD e BDD.
-● 📈 Teste de Performance com JMeter.
-● 📝 Elaboração de relatórios detalhados e registro eficiente de falhas encontradas.
-● 🔄 Integração Contínua/Entrega Contínua (CI/CD) utilizando GitHub Actions e Azure.
-● 🔄 Controle de versão eficaz com GIT.
-● 📊 Teste de API com Postman, Insomnia e Swagger.
-● 📆 Atuação em projetos ágeis utilizando metodologias como Scrum.
-● 🎓 Certificado em Scrum, trago consigo não só habilidades técnicas, mas também a mentalidade ágil necessária para impulsionar equipes e entregar resultados excepcionais.
+I love learning, playing video games, watching movies, cartoons and series with my wife. I really enjoy sharing my projects and helping people with their goals.
 
-💬 Vamos conectar e explorar como posso contribuir para o sucesso do seu próximo projeto!
+Lately I have been working with these technologies: Html, Css, JavaScript, Node Js, Python, Django, Flask, C#, Cypress, Robot Framework, Cucumber, SQL Server, MongoDB, Git, Github, Azure Devops, Oracle Cloud, Scrum, Kanban and Postman.
 
-📧 Entre em contato: idalgob99@gmail.com
+📧 Contact me: idalgob99@gmail.com
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 <!--
