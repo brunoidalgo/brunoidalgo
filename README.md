@@ -1,4 +1,4 @@
-# Hello, my name is Bruno Empke, nice to meet you 👋
+# Olá, meu nome é Bruno, prazer em lhe conhecer 👋
 
 ### Contact me! 📭
 <div>
@@ -10,15 +10,15 @@
 
 ### About me
 
-Let a introduce myself.
+Olá, meu nome é Bruno, prazer em conhecê-lo.
 
-I'm a Software Quality Engineer and I am passionate about delivering software solutions, I help ensure quality software that meets expected requirements. I am passionate about automating software quality processes and am a representative of quality and automation in any team I work for.
+Sou Analista de Testes de Software com cerca de 2 Anos de experiência na arêa entregando soluções de software, ajudando a garantir software de qualidade que atenda aos requisitos esperados. Sou apaixonado por automatizar processos de qualidade de software e sou um defensor da qualidade e automação em qualquer equipe em que trabalho.
 
-I love learning, playing video games, watching movies, cartoons and series with my wife. I really enjoy sharing my projects and helping people with their goals.
+Adoro aprender filmes, jogar videogame, assistir desenhos e séries com minha esposa. Gosto muito de compartilhar meus projetos e ajudar as pessoas com seus objetivos.
 
-Lately I have been working with these technologies: Html, Css, JavaScript, Node Js, Python, Django, Flask, C#, Cypress, Robot Framework, Cucumber, SQL Server, MongoDB, Git, Github, Azure Devops, Oracle Cloud, Scrum, Kanban and Postman.
+Ultimamente tenho trabalhado com estas tecnologias: Html, Css, JavaScript, Node Js, Python, Django, Flask, C#, Cypress, Robot Framework, Cucumber, SQL Server, MongoDB, Git, Github, Azure Devops, Oracle Cloud, Scrum, Kanban e Postman.
 
-📧 Contact me: idalgob99@gmail.com
+📧 Contate-me: idalgob99@gmail.com
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 <!--
@@ -33,7 +33,7 @@ Substitua o usuário maxsonferovante pelo seu usuário no GitHub.
 </div>
 
 
-### I was worked with... 🔧
+### Eu trabalho com... 🔧
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -41,7 +41,7 @@ Substitua o usuário maxsonferovante pelo seu usuário no GitHub.
 
 
 
-### Tecnologies and Tools...⚡
+### Tecnologias e Ferramentas...⚡
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
@@ -65,7 +65,7 @@ Substitua o usuário maxsonferovante pelo seu usuário no GitHub.
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
-### I too study... 🧩
+### Estou estudando.. 🧩
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
