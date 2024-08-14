@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Bruno Empke</h1>
-<h3 align="center">I am a Software Testing Analyst</h3>
+<h1 align="center">Olá 👋, Eu sou o Bruno Empke</h1>
+<h3 align="center">Sou um Analista QA Jr</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoidalgo&label=Profile%20views&color=0e75b6&style=flat" alt="brunoidalgo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunoidalgo" alt="brunoidalgo" /></a> </p>
 
-- 🔭 I’m currently working on [institucional-website](https://github.com/brunoidalgo/institucional-website)
+- 🔭 Atualmente estou trabalhando com Cypress, JavaScript e NodeJs [institucional-website](https://github.com/brunoidalgo/institucional-website)
 
-- 🌱 I’m currently learning **Python, JavaScript, SQL, MongoDB, Cypress and Robot Framework**
+- 🌱 Estou estudando **K6, JavaScript, Cypress, Postman, Appium e Robot Framework**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/bruno-empke/](https://www.linkedin.com/in/bruno-empke/)
+- 📝 Eu reguralmente escrevo sobre meus estudos [https://www.linkedin.com/in/bruno-empke/](https://www.linkedin.com/in/bruno-empke/)
 
-- 💬 Ask me about **Software Testing and Test Automation**
+- 💬 Pergunte-me sobre **Automação e Desenvolvimento de Software**
 
-- 📫 How to reach me **idalgob99@gmail.com**
+- 📫 Contate-Me **idalgob99@gmail.com**
 
-- ⚡ Fun fact **I am a Software Testing Analyst with around 2 years of experience in the area delivering software solutions, helping to ensure quality software that meets expected requirements. I am passionate about automating software quality processes and am an advocate for quality and automation in any team I work on.**
+- ⚡ Fun fact **Atualmente trabalho como Analista QA Júnior na SMARAPD, estou estudando Análise e Desenvolvimento de Sistemas. Tenho experência com JavaScript, Cypress e NodeJs e atualmente na empresa aonde trabalho estou liderando um projeto piloto dentro da empresa voltado a automação de testes com Cypress.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecet-se Comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bruno empke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno empke" height="30" width="40" /></a>
 </p>
