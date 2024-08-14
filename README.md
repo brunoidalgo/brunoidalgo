@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Eu sou o Bruno Empke</h1>
-<h3 align="center">Sou um Analista QA Jr</h3>
+<h1 align="center">Olá 👋, me chamo Bruno Empke</h1>
+<h3 align="center">Analista QA Jr</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoidalgo&label=Profile%20views&color=0e75b6&style=flat" alt="brunoidalgo" /> </p>
 
