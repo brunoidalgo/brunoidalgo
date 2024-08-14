@@ -15,7 +15,7 @@
 
 - 📫 Contate-Me **idalgob99@gmail.com**
 
-- ⚡ Fun fact **Atualmente trabalho como Analista QA Júnior na SMARAPD, estou estudando Análise e Desenvolvimento de Sistemas. Tenho experência com JavaScript, Cypress e NodeJs e atualmente na empresa aonde trabalho estou liderando um projeto piloto dentro da empresa voltado a automação de testes com Cypress.**
+- ⚡**Atualmente trabalho como Analista QA Júnior na SMARAPD, estou estudando Análise e Desenvolvimento de Sistemas. Tenho experência com JavaScript, Cypress e NodeJs e atualmente na empresa aonde trabalho estou liderando um projeto piloto dentro da empresa voltado a automação de testes com Cypress.**
 
 <h3 align="left">Conecet-se Comigo:</h3>
 <p align="left">
