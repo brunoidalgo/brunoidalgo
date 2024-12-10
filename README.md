@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Bruno Empke</h1>
-<h3 align="center">Analista QA Jr</h3>
+<h3 align="center">Full Stack Engineer | .NET | C# | ASP.NET | Angular | SQL Server | Typescript | React | Next | Node</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoidalgo&label=Profile%20views&color=0e75b6&style=flat" alt="brunoidalgo" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente estou trabalhando com Cypress, JavaScript e NodeJs [institucional-website](https://github.com/brunoidalgo/institucional-website)
 
-- 🌱 Estou estudando **K6, JavaScript, Cypress, Postman, Appium e Robot Framework**
+- 🌱 Estou estudando **.NET | C# | ASP.NET | Angular | SQL Server | Typescript | React | Next | Node**
 
 - 📝 Eu reguralmente escrevo sobre meus estudos [https://www.linkedin.com/in/bruno-empke/](https://www.linkedin.com/in/bruno-empke/)
 
@@ -15,9 +15,9 @@
 
 - 📫 Contate-Me **idalgob99@gmail.com**
 
-- ⚡**Atualmente trabalho como Analista QA Júnior na SMARAPD, estou estudando Análise e Desenvolvimento de Sistemas. Tenho experência com JavaScript, Cypress e NodeJs e atualmente na empresa aonde trabalho estou liderando um projeto piloto dentro da empresa voltado a automação de testes com Cypress.**
+- ⚡**Atualmente trabalho como Analista QA Júnior na SMARAPD, estou estudando Análise e Desenvolvimento de Sistemas. Tenho experência com JavaScript, Cypress e NodeJs. Meu objetivo e ser Desenvolvedor Full Stack.**
 
-<h3 align="left">Conecet-se Comigo:</h3>
+<h3 align="left">Conecte-se Comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bruno empke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno empke" height="30" width="40" /></a>
 </p>
