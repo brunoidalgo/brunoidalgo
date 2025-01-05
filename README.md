@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, me chamo Bruno Empke</h1>
-<h3 align="center">Full Stack Engineer | .NET | C# | ASP.NET | Angular | SQL Server | Typescript | React | Next | Node</h3>
+<h1 align="center">Olá, me chamo Bruno Empke</h1>
+<h3 align="center">Software Engineer | React Js | Next Js | React Native | Javascript | Node Js | Typescript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoidalgo&label=Profile%20views&color=0e75b6&style=flat" alt="brunoidalgo" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 Atualmente estou trabalhando com Cypress, JavaScript e NodeJs [institucional-website](https://portfolio-new-sand-iota.vercel.app/))
 
-- 🌱 Estou estudando **.NET | C# | ASP.NET | Angular | SQL Server | Typescript | React | Next | Node**
+- 🌱 Estou estudando **React Js | Next Js | React Native | Javascript | Node Js**
 
 - 📝 Eu reguralmente escrevo sobre meus estudos [https://www.linkedin.com/in/bruno-empke/](https://www.linkedin.com/in/bruno-empke/)
 
-- 💬 Pergunte-me sobre **Automação e Desenvolvimento de Software**
+- 💬 Pergunte-me sobre **Automação de Testes e Desenvolvimento de Software**
 
 - 📫 Contate-Me **idalgob99@gmail.com**
 
