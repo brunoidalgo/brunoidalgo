@@ -2,7 +2,9 @@
 
 **`Full Stack Engineer`**
 
-Olá! Sou Full STack Engineer formado em Análise e Desenvolvimento, atualmente no sétimo semestre. Tenho me dedicado a aprofundar meu conhecimento em desenvolvimento web, especialmente em HTML, CSS e JavaScript, que são atualmente meu principal foco.
+Sou Full STack Engineer sou formado em Análise e Desenvolvimento de Sistemas e possuo sólida experiência no desenvolvimento de aplicativos utilizando Node, Next, TypeScript, React, React Native, Tailwind, MongoDB, PostgreSQL e Cypress.
+
+Um dos meus projetos mais marcantes é o aplicativo que estou construindo como voluntário no Pipoca Ágil, voltado para o setor de saúde e criado para melhorar a qualidade de vida de pessoas com diabetes. 
 
 <p align="left">
     <a href="https://github.com/brunoidalgo03?tab=followers">
